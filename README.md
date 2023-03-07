@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexmaichen
 - 👀 I am a novice programmer and I am a gamer.
-- 🌱 I am learning python and C
+- 🌱 I am learning Python3 and C
 - 📫 You can find me at alexmaichen@gmail.com ... Assuming I decide to check my e-mails frequently enough.
 
 <!---
