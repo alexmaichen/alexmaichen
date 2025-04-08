@@ -2,7 +2,7 @@
 
 I have some decent experience with (from most to least):
 **Python3 (about 500 hours)
-C/C++ (about 450 hours)
+C/C++ (about 500 hours)
 GDScript (about 80 hours)**
 
 I have also used:
