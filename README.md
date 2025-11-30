@@ -9,8 +9,7 @@ I have also used:
 **Lua
 JavaScript
 Racket
-Ocaml
-ARMx86**
+Ocaml**
 
 Somehow, despite my mild dislike for the OO paradigm, nearly all of my most-used are OOP languages.
 
