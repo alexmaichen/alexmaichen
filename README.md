@@ -1,15 +1,16 @@
 👋 Hi, I’m **@alexmaichen**
 
-I have some decent experience with (from most to least):
-**Python3 (about 700 hours)
-C/C++ (about 500 hours)
-GDScript (about 80 hours)**
+I mainly program in
+**Python
+C/C++
+GDScript
+Ocaml
+Lua**
 
 I have also used:
-**Lua
-JavaScript
+**JavaScript
 Racket
-Ocaml**
+Pike**
 
 Somehow, despite my mild dislike for the OO paradigm, nearly all of my most-used are OOP languages.
 
