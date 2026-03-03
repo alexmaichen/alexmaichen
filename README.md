@@ -9,8 +9,7 @@ Lua**
 
 I have also used:
 **JavaScript
-Racket
-Pike**
+Racket**
 
 Somehow, despite my mild dislike for the OO paradigm, nearly all of my most-used are OOP languages.
 
