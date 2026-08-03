@@ -1,11 +1,12 @@
 👋 Hi, I’m **@alexmaichen**
 
-I mainly program in
+I mainly program in:
 **Python
 C/C++
 Lua
 GDScript
 Ocaml**
+
 The above, minus ocaml and gdscript, are those you can expect to see starred / pinned on my profile.
 
 I have also used:
